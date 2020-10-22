@@ -48,11 +48,11 @@ function login(isFromTeamsApp){
     microsoftTeams.authentication.authenticate({
       url: '/login',
       successCallback: function (...data) {
-        console.log('microsoftTeams.initialize.successCallback', data);
+        console.log('microsoftTeams.authentication.successCallback', data);
         window.location.reload();
       },
       failureCallback: function (...data) {
-        console.log('microsoftTeams.initialize.failureCallback', data);
+        console.log('microsoftTeams.authentication.failureCallback', data);
       },
       width: 800,
       height: 600,

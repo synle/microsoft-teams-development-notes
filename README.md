@@ -81,3 +81,9 @@ async function getUserProfile(){
   }
 }
 ```
+
+
+### Teams SSO with AAD
+https://dev.to/urmade/seamless-sso-login-for-microsoft-teams-tabs-3n8k
+
+https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso

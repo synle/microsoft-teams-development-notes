@@ -3,6 +3,11 @@
 ### Teams App Studio
 Download `App Studio` for Teams to assist with manifest editor and tooling
 
+### Create brand new tenant for testing
+Good for 90 days
+
+https://cdx.transform.microsoft.com/my-tenants/create-tenant
+
 ### JS API
 https://docs.microsoft.com/en-us/javascript/api/overview/msteams-client?view=msteams-client-js-latest
 

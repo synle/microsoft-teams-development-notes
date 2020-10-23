@@ -1,5 +1,8 @@
 # microsoft-teams-development-notes
 
+### Teams App Studio
+Download `App Studio` for Teams to assist with manifest editor and tooling
+
 ### JS API
 https://docs.microsoft.com/en-us/javascript/api/overview/msteams-client?view=msteams-client-js-latest
 
